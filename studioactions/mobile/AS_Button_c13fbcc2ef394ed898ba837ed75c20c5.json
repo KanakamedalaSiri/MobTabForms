@@ -1,0 +1,30 @@
+{
+    "AS_Button_c13fbcc2ef394ed898ba837ed75c20c5": {
+        "id": "AS_Button_c13fbcc2ef394ed898ba837ed75c20c5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g8d84fd64f1e402fa8e11228929018cf"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__h40a4e6eec734f108b9e3fefe7942574",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form2",
+            "formKUID": "c1f0bb02a1dd4e65a6c0ca3e090fa43a",
+            "projectName": "AppOnMay15",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}
